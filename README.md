@@ -8,3 +8,8 @@ My favourite food is pasta.
 ## Age: 40
 ### Nationality: Italian
 My favourite food is pizza.
+
+# Name: Ernesto Mederos Garcia
+## Age: 32
+### Nationality: Cuban
+My favourite food is rice & beans.
